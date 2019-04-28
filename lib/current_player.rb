@@ -9,7 +9,7 @@ def turn_count(board)
     end
   end
   puts count
-  return turns_played
+  return count
 end
 
 def current_player()
