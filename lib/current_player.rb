@@ -8,7 +8,7 @@ def turn_count(board)
       count += 1
     end
   end
-  print count
+  puts count
   return turns_played
 end
 
